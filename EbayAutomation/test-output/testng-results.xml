@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-03T08:32:32 EDT" name="Default suite" finished-at="2022-11-03T08:33:21 EDT" duration-ms="48938">
+    <groups>
+    </groups>
+    <test started-at="2022-11-03T08:32:32 EDT" name="Default test" finished-at="2022-11-03T08:33:21 EDT" duration-ms="48938">
+      <class name="pageTestCases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pageTestCases.HomePageTest@8f2ef19]" started-at="2022-11-03T08:32:32 EDT" name="setUp" finished-at="2022-11-03T08:32:39 EDT" duration-ms="6750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateUserProfileTest()[pri:1, instance:pageTestCases.HomePageTest@8f2ef19]" started-at="2022-11-03T08:32:39 EDT" name="validateUserProfileTest" finished-at="2022-11-03T08:33:05 EDT" duration-ms="26364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUserProfileTest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:pageTestCases.HomePageTest@8f2ef19]" started-at="2022-11-03T08:33:05 EDT" name="close" finished-at="2022-11-03T08:33:10 EDT" duration-ms="5212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pageTestCases.HomePageTest@8f2ef19]" started-at="2022-11-03T08:33:10 EDT" name="setUp" finished-at="2022-11-03T08:33:16 EDT" duration-ms="5664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateLogoImageTest()[pri:2, instance:pageTestCases.HomePageTest@8f2ef19]" started-at="2022-11-03T08:33:16 EDT" name="validateLogoImageTest" finished-at="2022-11-03T08:33:16 EDT" duration-ms="79" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogoImageTest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:pageTestCases.HomePageTest@8f2ef19]" started-at="2022-11-03T08:33:16 EDT" name="close" finished-at="2022-11-03T08:33:21 EDT" duration-ms="4811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- pageTestCases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
